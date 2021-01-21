@@ -27,10 +27,20 @@ h2 {
     font-size: 40px;
 }
 
+.calculateBtn {
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 30px;
+    padding: 10px;
+    background-color: white;
+    cursor: pointer;
+}
+
 .helpImg {
     margin-left: 80%;
     height: 50px;
     width: 50px;
+    cursor: pointer;
 }
 
 .enableFormulsBlock {
