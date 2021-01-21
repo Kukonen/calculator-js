@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-color: #333;
+}
+
+h1 {
+    color: #aaa;
+    font-size: 48px;
+}
+
+h2 {
+    color: #aaa;
+}
+
+.result {
+    display: inline-block;
+    width: 80%;
+    margin: auto;
+    height: 60px;
+    font-size: 40px;
+    background-color: #3a3f44;
+    color: #aaa;
+    padding: 25px;
+    margin-bottom: 50px;
+}
+.inputFormuls {
+    font-size: 40px;
+}
+
+.helpImg {
+    margin-left: 80%;
+    height: 50px;
+    width: 50px;
+}
+
+.enableFormulsBlock {
+    display: inline-block;
+    width: 80%;
+    margin: auto;
+    background-color: #3a3f44;
+}
+.enableFormulsSpan {
+    font-size: 40px;
+    color: #aaa;
+    cursor: pointer;
+    margin-right: 20px;
+}
